@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:content-box;
+}/* Inserta tu CSS aqui */
+.caja{
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+.r{
+	background-color: #ED2251;
+}
+.c{
+	background-color: #3A81BA;
+}
+.v{
+	background-color: #8BAB42;
+}
+.re{
+	background-color: #ED2251;
+	right:0px;
+}
+.bu{
+	background-color: #3A81BA;
+	left:200px;
+}
+.gr{
+	background-color: #8BAB42;
+	right:0px;
+}
+
+.roj{
+	background-color: #ED2251;
+	left:0px;
+	top: 0px;
+}
+.cel{
+	background-color: #3A81BA;
+	left:200px;
+	top:0px;
+}
+.ver{
+	background-color: #8BAB42;
+	left:0px;
+	bottom: 0px;
+}
+.ama{
+	background-color: #FFFF00;
+	right:0px;
+	bottom:0px;
+}
